@@ -7,7 +7,7 @@
     <br />
     Built to help identify deepfake audio in real time, with an intuitive upload interface and clear prediction results.
     <br />
-    <a href="https://vercel.com/moultrie-dangerfields-projects/audio-deepfake-detector"><strong>Live Demo »</strong></a>
+    <a href="https://audio-deepfake-detector.vercel.app/"><strong>Live Demo »</strong></a>
     <br />
     <br />
     <a href="https://github.com/moultriedanger/audio-deepfake-detector-frontend">Frontend Repo</a>
@@ -20,7 +20,7 @@
 
 ## 📂 Project Repositories
 
-- **Frontend (React + Tailwind)** → [Audio Deepfake UI](https://github.com/moultriedanger/audio-deepfake-detector-frontend)  
+- **Frontend (React + JSX)** → [Audio Deepfake UI](https://github.com/moultriedanger/audio-deepfake-detector-frontend)  
   Responsive React interface for uploading audio, displaying inference results, and guiding users through the detection process.
 
 - **Backend (Flask + PyTorch)** → [Audio Deepfake API](https://github.com/moultriedanger/audio-deepfake-detector-api)  
