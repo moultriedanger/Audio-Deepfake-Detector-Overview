@@ -38,8 +38,10 @@
 
 ## 📌 Tech Stack
 
-**Frontend**: React, JavaScript, JSX, CSS 
-**Backend**: Python, Flask, PyTorch, boto3, NumPy 
+**Frontend**: React, JavaScript, JSX, CSS
+<br /> 
+**Backend**: Python, Flask, PyTorch, boto3, NumPy
+<br />
 **Deployment**: Vercel (Frontend), Heroku / Gunicorn (Backend)
 
 ---
