@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Audio Deepfake Detection – Application Overview</h1>
+  <h1 align="center">Fake Or Real? – An Audio Deepfake Detection Applicaiton</h1>
   <p align="center">
     A full-stack audio deepfake detection applicaiton that utilizes a fine-tuned hugging face transformer to detect AI-generated speech.
     <br />
@@ -26,16 +26,13 @@
 ## 🔹 Features
 
 ### Frontend
-- React for modern ui
+- Web recorder interface
 - Drag-and-drop or file picker for audio uploads
-- Real-time progress indicator during model inference
 - Clear real/fake probability output
-- Deployed with vercel
 
 ### Backend
 - Flask RESTful API
-- PyTorch-based synthetic voice detection model
-- Deployed with Heroku
+- Hugging face transformer based synthetic voice detection model
 
 ---
 
